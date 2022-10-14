@@ -1,0 +1,11 @@
+Receipt: 10/14/2022 13:06:20
+
+Title                                Price
+----------------------------------- ---------
+Starting Out with Java              $138.16
+Java a Beginner's Guide             $14.75
+
+Sub-Total:                          $152.91
+Tax:                                $10.70
+                                    ---------
+Total:                              $163.61
